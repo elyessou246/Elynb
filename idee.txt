@@ -1,0 +1,34 @@
+Idees  TIPE :
+
+1-Le rationnel et ses propriétés : Le rationnel en tant que prolongement de l'entier:
+1.1: Géométrie associée aux rationnels :
+Similarités avec naturel : je peux compter les rationnels tout comme je peux compter les entiers (Q      est dénombrable )
+Tout rationnel est constructible 
+1.2: Représentation  des rationnels :
+Le développement décimal 
+Propriété fondamentale des rationnels: Periodicite de la representation décimale (Prolongement en quelque sorte du caractère ´ atteignable ´ fini (Tout comme l’entier ) du rationnel )
+Notion de période don rationnel : Def, calculs et utilité 
+-> Rem: phénomènes périodiques dans la representation du nombre définissent un rationnel , que se passe t-il  lorsqu’il y a rupture avec le caractère périodique
+
+2- L'irrationnel et ses propriétés : L'irrationnel diffère du rationnel 
+
+2.1: Géométrie associée aux irrationnels:
+Les irrationels ne sont pas tous constructibles
+2.2: Algébriquement phénomènes nouveaux :
+Existence de nombres transcendants 
+2.3: Représentation  des irrationnels :
+Propriété fondamentale des irrationnels: le dvlpmnt décimal est apériodique 
+
+
+3- Repartition des rationnels par rapport aux irrationnels : 
+
+4: Retours sur les périodes des rationnels : Qu´en dire et pourquoi ?
+4.1: Approxiamtion des irrationels (approximation diophantiennes, les fractions continues )
+
+Liens utiles pour Time:
+https://t5k.org/glossary/index.php?match=p
+:
+L’équivalent des répétions ds patterns pur els irrationnels : normal numbers 
+https://mathworld.wolfram.com/NormalNumber.html
+
+https://math.univ-lyon1.fr/irem/spip.php?article381
